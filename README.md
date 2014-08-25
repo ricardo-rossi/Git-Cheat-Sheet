@@ -10,6 +10,7 @@ Start a new repository or obtain one from an existing URL
 > **`$ git clone [url]`**  
 *Downloads a project and its entire version history*  
 
+---
 
 **MAKE CHANGES**  
 Review edits and craf a commit transaction
